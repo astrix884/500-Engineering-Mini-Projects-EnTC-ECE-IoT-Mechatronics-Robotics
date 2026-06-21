@@ -8,7 +8,7 @@ I’ve created a curated list of 500+ unique mini project ideas covering:
 - Mechatronics
   
 - # 👉 Read the full list here:
-  🔗 https://7oriontech.blogspot.com/
+  🔗 https://7oriontech.blogspot.com/2026/06/500-engineering-project-ideas-list.html
 
 
 Projects range from beginner to advanced level and are suitable for:
